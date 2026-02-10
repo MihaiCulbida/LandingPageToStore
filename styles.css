@@ -56,7 +56,7 @@ body {
   display: flex;
   gap: 100px; 
   margin-top: 170px; 
-  margin-left: 10px;
+  margin-left: -300px;
 }
 
 .text-card {
